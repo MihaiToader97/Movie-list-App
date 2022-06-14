@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(129, 69, 69);
+}
+
+.header{
+    background-color: rgba(40, 40, 45, 0.3);
+}
+
+.header-container{
+    color:white;
+    font-weight: bold;
+}
+
+a{
+    cursor: pointer;
+    color: white;
+}
+
+li{
+    color: white;
+    list-style: square;
+}
+
+.li-container:hover{
+    color: orange;
+}
